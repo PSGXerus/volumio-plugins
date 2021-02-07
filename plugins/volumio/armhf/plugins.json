@@ -665,13 +665,25 @@
 					"description": "Volumio plugin to use pirate audio DAC (including display and the 4 buttons) on raspberry pi.",
 					"details": "",
 					"author": "AxLED",
+					"updated": "24-1-2021"
+				},
+				{
+					"prettyName": "Philips amBX",
+					"icon": "fa-lightbulb-o",
+					"name": "ambx",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/ambx/ambx.zip",
+					"license": "BSD-3-Clause",
+					"description": "A rudimentary controller for the LEDs of the Philips amBX sound system.",
+					"details": "This plugin enables Volumio to control the LEDs of the Philips amBX sound system.",
+					"author": "Jan Siegmund",
 					"screenshots": [
 						{
 							"image": "",
 							"thumb": ""
 						}
 					],
-					"updated": "24-1-2021"
+					"updated": "7-2-2021"
 				}
 			]
 		},
